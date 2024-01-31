@@ -104,6 +104,142 @@ stomach 胃 ˈstəmək
 throat 喉咙 THrōt
 Sesame Street 芝麻街
 
+
+
+smirk 傻笑 smərk
+basically 基本上 ˈbāsik(ə)lē
+expression 表达 ikˈspreSHən
+negative 消极 ˈneɡədiv
+shame 耻辱 SHām
+rent 租 rent
+borrowing 借用 ˈbärōiNG
+completely 完全的 kəmˈplētlē
+actually 实际上 ˈak(t)SH(o͞o)əlē
+between 之间 bəˈtwēn
+somehow 不知为何 ˈsəmˌhou
+stuff 东西 stəf
+leech 水蛭 lēCH
+candy 糖果 ˈkandē
+couple 夫妻 ˈkəpəl
+especially 尤其 iˈspeSHəlē
+sense 感觉 sens
+gonna 会 ˈɡônə
+sarcasm 讽刺 ˈsärˌkazəm
+sarcastic 讽刺的 särˈkastik
+meaning 意义 ˈmēniNG
+unless 除非 ənˈles
+permission 允许 pərˈmiSHən
+frustrating 令人沮丧 ˈfrəstrādiNG
+weird 诡异的 wird
+eventually 最终 əˈven(t)SH(o͞o)əlē
+Seinfeld 宋飞传（美国电视剧）
+pronunciation 发音 prəˌnənsēˈāSH(ə)n
+mission 使命 ˈmiSHən
+master 掌握 ˈmastər
+tough 艰难地
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+explain 解释 ikˈsplān
+sentence 句子 ˈsen(t)əns
+artist 艺术家 ˈärdəst
+based 基于
+Bay 湾
+Lights 灯
+consists 包括
+sculpture 雕塑
+attaching 附着
+suspender 暂停
+cables 电缆
+basically 基本上 ˈbāsik(ə)lē
+introducing 介绍 
+studio 工作室
+refers 指的是
+Michelangelo 米开朗基罗
+big piece 大块
+marble 大理石
+carving 雕刻 ˈkärviNG
+actually 实际上 ˈak(t)SH(o͞o)əlē
+artwork 艺术品
+threedimensional 三维
+attached 随附的 əˈtaCHt
+incandescent 白炽灯 ˌinkənˈdes(ə)nt
+fluorescent 荧光 ˌflo͝o(ə)ˈresənt
+cables 电缆
+
+
+
+
+expanse 广阔 ikˈspans
+Treasure 宝藏 
+huge 巨大的
+kilometers 公里
+section 部分
+kilom 千米
+connects 连接
+interesting 有趣的
+fair 公平的 fer
+military 军队 ˈmiləˌterē
+Navy 海军
+though 尽管 T͟Hō
+polluted 污染 pəˈlo͞odəd
+useless 无用 ˈyo͞osləs
+nowadays 如今
+popular 受欢迎的 ˈpäpyələr
+tourists 游客 
+spectacular 壮观的 spekˈtakyələr
+highlighting 突出显示
+
+
+incredible 极好的 inˈkredəb(ə)l
+infrastructure 基础设施 ˈinfrəˌstrək(t)SHər
+meaningful 有意义的 ˈmēniNGfəl
+spotlight 聚光灯 ˈspätˌlīt
+pointing 指点 ˈpoin(t)iNG
+putting 推杆 
+meaningful 有意义的 ˈmēniNGfəl
+busier 更忙碌 ˈbizē
+crossing 穿越 ˈkrôsiNG
+bringing 带来
+technology 技术 tekˈnäləjē
+overall 全面的
+artistic 艺术的 
+combine 结合
+pronunciation 发音 prəˌnənsēˈāSH(ə)n
+skills 技能 
+vocabulary 词汇 vōˈkabyəˌlerē
+combining 结合 
+expression 表达 ikˈspreSHən
+specific 具体 spəˈsifik
+specifically 具体来说 spəˈsifək(ə)lē
+location 地点 lōˈkāSH(ə)n
+
+design 设计 dəˈzīn
+used 用过的 yo͞ozd
+places 地方
+designed 设计的 dəˈzīnd
+sequencing 测序
+fine-tuning 微调
+outside 外部
+sequence 顺序
+chaos 混乱 ˈkāˌäs
+patterns 图案
+resume 恢复 rəˈzo͞om
+frequency 频率 ˈfrēkwənsē
+adjust 调整 əˈjəst
+expression 表达 ikˈspreSHən
+abstract 抽象的
+material 材料
+Picasso 毕加索
+actually 实际上 ˈak(t)SH(o͞o)əlē
+understanding 理解 ˌəndərˈstandiNG
+painting 绘画 ˈpān(t)iNG
+started 开始了 
+
 语法
 well I hope you enjoyed the first scene 
 动词的过去式（Past Tense）指的是动作或状态发生在过去的时间。在英语中，动词的过去式通常是通过在动词原形后面加上-ed或者变化动词的拼写形式来构成的。例如：
