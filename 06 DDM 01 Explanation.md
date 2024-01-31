@@ -69,7 +69,7 @@ move back in with those people who are those people I I don't
 know please tell me please Jerry he's talking to Jerry tell me they're insane
 
 they're crazy they're nuts they're Bonkers those people are crazy you know
------------------------------
+
 that and Jerry says let me go down hey my parents are just as crazy as
 
 your parents now we know George has to move back into his parents house he's
@@ -247,7 +247,7 @@ them that's a giggle comes from the
 stomach comes from the throat giggle do you know Elmo from Sesame Street he has
 
 a giggle sorry uh not a chuckle a chuckle
-
+-----------------------------
 with be a very short
 
 laugh that would be a chuckle sometimes a chuckle you chuckle when you don't
