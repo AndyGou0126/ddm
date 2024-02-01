@@ -201,7 +201,7 @@ Picasso yeah this is a person no I'm sorry I'm sorry sorry P
 now actually Picasso he had a great understanding of
 
 painting and he could make beautiful paintings and then he started to do
-------------------------------
+
 abstract art so what is abstract art it's something that if we just look at
 
 it we don't really understand it we have to think about it and we have to

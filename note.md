@@ -240,6 +240,114 @@ understanding 理解 ˌəndərˈstandiNG
 painting 绘画 ˈpān(t)iNG
 started 开始了 
 
+
+abstract 抽象的
+concentrate 集中 ˈkänsənˌtrāt
+typical 典型的 ˈtipik(ə)l
+atypical 非典型的 ˌāˈtipək(ə)l
+lasers 激光 
+dancing 跳舞 ˈdansiNG
+atmosphere 气氛 ˈatməsˌfir
+material 材料 məˈtirēəl
+attracted 吸引了 
+respond 回应 rəˈspänd
+whatever 任何 (h)wətˈevər
+
+
+recognize 认出 ˈrekəɡˌnīz
+waste 浪费 wāst
+electricity 电 əˌlekˈtrisədē
+child 孩子 CHīld
+response 回复 rəˈspäns
+various 各种各样 ˈverēəs
+critical 批判的 ˈkridək(ə)l
+philosophical 哲学的 ˌfiləˈsäfək(ə)l
+reactions 反应 
+react 反应 rēˈakt
+algorithms 算法
+explain 解释 
+unique 独特的 yo͞oˈnēk
+excited 兴奋的 ikˈsīdəd
+aspect 方面 ˈaspekt
+shapes 形状 
+entire 全部的
+kilometers 公里
+programming 编程 ˈprōˌɡramiNG
+
+incredible 极好的 inˈkredəb(ə)l
+finally 最后 ˈfīn(ə)lē
+instead 反而 inˈsted
+involve 涉及 inˈvälv
+Francisco 弗朗西斯科
+Silicon Valley 硅谷
+companies 公司 
+wireless 无线的 ˈwī(ə)rləs
+communication 沟通 kəˌmyo͞onəˈkāSH(ə)n
+
+
+debugging 调试 ˌdēˈbəɡiNG
+process 过程 
+solving 解决 
+troubleshooting 故障排除
+controlling 控制 
+preparations 准备工作 
+launching 发射
+
+
+official 官方的 əˈfiSHəl
+calendar 日历 ˈkaləndər
+jubilation 欢腾 ˌjo͞obəˈlāSH(ə)n
+Happiness 幸福 
+presented 呈现
+forever 永远 fəˈrevər
+estimating 估计 
+impactful 有影响力的 imˈpaktfəl
+opinion 观点 əˈpinyən
+according 根据 əˈkôrdiNG
+calculations 计算
+regarding 关于
+inexpensive 便宜的 ˌinikˈspensiv
+Village 村庄 
+tiny 微小的
+economic 经济的 ˌekəˈnämik
+financial 金融的
+especially 尤其 iˈspeSHəlē
+Hills 丘陵 
+trolleys 手推车 
+Transportation 运输
+peers 同行 
+docks 码头
+Seafood 海鲜 
+stuff 东西 stəf
+internet 互联网 ˈin(t)ərˌnet
+extra 额外的
+
+
+
+facts 事实 
+richest 最富有的 
+billionaires 亿万富翁
+industry 行业
+painters 画家
+west 西方 west
+North 北方
+South 南方
+East 东方
+convenient 方便的 kənˈvēnyənt
+Alcatraz 恶魔岛
+supposed 应该 səˈpōzd
+escape 逃脱 əˈskāp
+northern 北方 ˈnôrT͟Hərn
+springtime 春天 
+desert 沙漠 dəˈzərt
+fall 落下 fôl
+airplane 飞机 
+highly 高度 ˈhīlē
+
+
+
+
+
 语法
 well I hope you enjoyed the first scene 
 动词的过去式（Past Tense）指的是动作或状态发生在过去的时间。在英语中，动词的过去式通常是通过在动词原形后面加上-ed或者变化动词的拼写形式来构成的。例如：
